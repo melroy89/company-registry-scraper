@@ -6,7 +6,7 @@ The UK government maintains a list of URLs for Company Registration sites (https
 
 1) Initialize your project if you wish. The modules command arrived to Golang in the version 1.11, so if you are using an earlier version I guess it means you have been using Go for a while and know how to set up a new project. 
 
-    go mod init github.com/rubenwap/colly-world-registers
+    go mod init github.com/rubenwap/company-registry-scraper
 
 2) Create the necessary files
 
